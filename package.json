@@ -1,6 +1,6 @@
 {
   "name": "grid-path-finder",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Finds the shortest path between two nodes on a grid",
   "main": "grid-path-finder.js",
   "scripts": {
