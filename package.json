@@ -1,0 +1,24 @@
+{
+  "name": "grid-path-finder",
+  "version": "1.0.1",
+  "description": "Finds the shortest path between two nodes on a grid",
+  "main": "grid-path-finder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fankadore/grid-path-finder.git"
+  },
+  "keywords": [
+    "grid",
+    "path",
+    "finder"
+  ],
+  "author": "Ruaidhri MacKenzie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fankadore/grid-path-finder/issues"
+  },
+  "homepage": "https://github.com/Fankadore/grid-path-finder#readme"
+}
