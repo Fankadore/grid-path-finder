@@ -4,8 +4,8 @@
 module.exports = function getPath(startPos, endPos, grid) {
 	if (!startPos || !endPos || !grid) return null;
 
-	const columns = grid.length;
-	const rows = grid[0].length;
+	const rows = grid.length;
+	const columns = grid[0].length;
 	const walls = [];
 	for (let y = 0; y < rows; y++) {
 		for (let x = 0; x < columns; x++) {
